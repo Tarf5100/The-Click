@@ -101,6 +101,6 @@ java ConSer
 <ul>
   <li>Tarfah Bin Moammar</li>
   <li>Amani Alharbi</li>
-  <li>Layan Al-amri</li>
-  <li>Afnan Al zikri</li>
+  <li>Layan Alamri</li>
+  <li>Afnan Alzikri</li>
 </ul>
