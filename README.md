@@ -94,3 +94,13 @@ java ConSer
 <hr>
 
 <p>This project provides hands-on experience with network programming, real-time data handling, and GUI design in Java. Enjoy competing with friends!</p>
+
+
+
+<h2>Team Members</h2>
+<ul>
+  <li>Tarfah Bin Moammar</li>
+  <li>Amani Alharbi</li>
+  <li>Layan Al-amri</li>
+  <li>Afnan Al zikri</li>
+</ul>
